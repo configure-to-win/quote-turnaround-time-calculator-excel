@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this workbook, please cite it using these metadata."
+title: "Quote Turnaround Time Calculator"
+authors:
+  - name: "Configure to WIN"
+version: 1.0.0
+date-released: "2026-07-25"
+license: CC-BY-4.0
+repository-code: "https://github.com/configure-to-win/quote-turnaround-time-calculator-excel"
+url: "https://configure.win/resources/quote-turnaround-time-calculator"
