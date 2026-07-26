@@ -192,6 +192,12 @@ This repository is licensed under the terms described in [LICENSE.md](LICENSE.md
 
 When reusing or adapting the workbook or documentation, follow the attribution and modification requirements stated in that file.
 
+## Citation
+
+Please cite the archived release using its Zenodo DOI:
+
+https://doi.org/10.5281/zenodo.21600327
+
 ## About Configure to WIN
 
 Configure to WIN develops tools and software for B2B quote control, pricing governance, commercial calculation and approval management.
