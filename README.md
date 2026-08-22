@@ -1,4 +1,3 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21600327.svg)](https://doi.org/10.5281/zenodo.21600327)
 # Quote Turnaround Time Calculator — Excel Measurement Template
 
 Measure how long complex B2B quotes take from initial request to customer-ready release, and separate active processing time from waiting, rework and post-approval release lag.
